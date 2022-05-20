@@ -1,0 +1,305 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/faviconn.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Ashraful Islam Rafi
+title: PhD student and Graduate Research Assistant at UAB
+email: aislam@uab.edu
+# website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+linkedin_username: rafithe47
+facebook_username: rafithe47
+github_username:  ashraful-islam-rafi
+twitter_username: rafithe47
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# flickr_username: jekyll
+# instagram_username: rafithe47
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+# - title: GitLab Link
+#   icon: fab fa-gitlab
+#   url: https://gitlab.com/rafithe47
+
+- title: Curriculum Vitae 
+  icon: far fa-file-pdf
+  url: https://rafi.github.io/Ashraful_Islam_Curriculum_Vitae.pdf
+
+
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+# Starts from here
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs  
+  Hi, my name's Rafi. Currently, I’m a computer science PhD student at the [University of Alabama at Birmingham](https://www.uab.edu){:target="_blank" rel="noopener"} and working as a Graduate Research Assistant under [Dr. Thomas Gilray](https://thomas.gilray.org){:target="_blank" rel="noopener"} in the HARP lab, [UAB](https://www.uab.edu){:target="_blank" rel="noopener"}.
+
+    <br/>
+    Before that, I worked as a Software Engineer (R&D) at [Bangla Search Engine (Pipilika)](https://en.wikipedia.org/wiki/Pipilika){:target="_blank" rel="noopener"} for almost 4 years. Prior to that, I was working in the software industry for more than 3+ years taking on roles such as Programmer, Senior Software Engineer, and Software Developer. In 2013, I completed my bachelor’s degree in Computer Science and Engineering from [Leading University, Bangladesh](https://www.lus.ac.bd){:target="_blank" rel="noopener"}.
+
+
+# <br/>
+# I am most skilled in: <mark>Research, Developing Software</mark> and <mark>Eating Pizza</mark> 🍕
+
+
+
+content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
+        link: www.uab.edu
+        # link_text: Leading University, Sylhet
+        caption: January, 2022 - Present 
+        sub_title: Doctor of Philosophy (Ph.D.) in Computer Science
+        # quote: >
+        #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
+        # description: | # this will include new lines to allow paragraphs
+        #   I have started pursuing the Doctor of Philosophy (Ph.D.) degree in Computer Science at UAB from Spring, 2022 session.
+        
+
+
+      - layout: top-middle
+        title: LEADING UNIVERSITY
+        link: www.lus.ac.bd
+        # link_text: Leading University, Sylhet
+        # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
+        caption: September, 2009 - August, 2013 
+        sub_title: B. Sc. in Computer Science and Engineering
+      #   # quote: >
+      #   #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
+      #   description: | # this will include new lines to allow paragraphs
+      #     During my time at Leading University, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. I was actively involved with various voluntary services as well.
+
+    #       <br/> 
+    #       **Thesis/Project Title:** System to Secure Web Authentication: using cache, cookie, and session <br/>
+          
+# **Supervisor:** Rumel M. S. Rahman Pir, Associate Professor, Department  of Computer Science & Engineering (CSE) and Head, Department  of Electrical & Electronic Engineering (EEE)
+
+
+# I worked as a voluntary **ACM instructor while doing undergrad** at my university
+
+# I spent a lot of my free time as a committee member of the **Leading University Computer Club** taking on roles such as *Public Relation Officer* and *Vice-President*
+
+# I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university
+
+
+  - title: Research Interest # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - Programming Languages, Software Engineering, Machine Learning, Data Science, Information Retrieval, Human-Computer Interaction and Cybersecurity
+
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      # - layout: left
+      #   title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
+      #   link: www.uab.edu
+      #   # link_text: Search Engine Pipilika 
+      #   sub_title: GRADUATE RESEARCH ASSISTANT
+      #   caption: Januray 2022 - Present
+      #   # caption: August 2017 - March 2021
+        
+
+      - layout: left
+        title: BANGLA SEARCH ENGINE (PIPILIKA)
+        link: https://en.wikipedia.org/wiki/Pipilika
+        # link_text: Search Engine Pipilika 
+        sub_title: Software Engineer (R&D)
+        caption: August 2017 - Present
+        # caption: August 2017 - March 2021
+        
+        # quote: >
+        #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
+
+        description: | # this will include new lines to allow paragraphs
+          - **Search Engine Improvement:** Conducting extensive research using ML techniques such as Deep Learning to solve Natural Language Processing (NLP) problems for the Bengali Language.
+
+          - **Search Relevancy Improvement:** Improved keyword-based search relevancy by designing dynamic schema in Apache Solr supported by the calculative implementation of Solr’s dismax query parser and query boosting.
+ 
+          - **A2i Search Portal:** Spend around six months to find out a generic approach to Crawl, Parse, and Index the unstructured data from over 40,000 websites and later on provided REST API using Spring Boot.
+ 
+          - **Spellchecker Context-Aware Library:** After month-long, thorough research into the project improved the file—Dictionary—loading time by 20 seconds.
+ 
+           - **Solr Analytic Library:** The development of this plug and play library required a lot of individual research which can provide domain wise time series data for any project build upon Apache Solr.
+ 
+           - **Rich Document Parser Library:** Wrote generic parser using jsoup library to extract data from file types such as DOC, PDF, PPT, CSV, etc. Extracting Bangla Unicode data from PDF files was the biggest challenge of all and still under development.
+
+
+      - layout: left
+        title: SOUTHEAST UNIVERSITY
+        link: https://seu.edu.bd
+        # link_text: Southeast University, Bangladesh
+        sub_title: Programmer
+        caption: April 2015 - August 2017
+        
+        # quote: >
+        #   Bangladesh's first ever search engine 
+
+        description: | # this will include new lines to allow paragraphs
+          - Served more than three months as **In-Charge** of the Information Technology (IT) department
+          - Developed **Result Prediction Tool** and **Online Admission System**  using PHP, MySql, Ajax, jQuery, Bootstrap3
+          - Modify, correct, and improve the overall performance of the University Support System (USS)
+          - Coordinated and Monitored vendor company on developing **Human Resources Management System (HRMS)** Software as per the Software Requirements Specification (SRS)
+          - Establish, build, and manage relationships with corporate partners
+
+      - layout: left
+        title: DURBAR SOFTWARE
+        link: https://durbar.co
+        # link_text: Durbar Software, Bangladesh
+        sub_title: Senior Software Engineer
+        caption: Novermber 2014 - April 2015
+        
+        # quote: >
+        #   Bangladesh's first ever search engine 
+
+        description: | # this will include new lines to allow paragraphs
+          - Developed the annual **Local Health Bulletin - 2015** report and **Photo Archiver System** for the Government of Bangladesh under the Ministry Of Health and Family Welfare as a vendor company
+          - Used Bootstrap Framework for cross-platform compatibility
+
+      - layout: left
+        title: IT LAB SOLUTIONS LTD.
+        link: www.itlabsolutions.com
+        # link_text: IT Lab Solutions Ltd.
+        sub_title: Software Developer (While Doing Bachelor's)
+        caption: February 2012 - June 2014
+        
+        # quote: >
+        #   Bangladesh's first ever search engine 
+
+        description: | # this will include new lines to allow paragraphs
+          - Designed and Developed customized web-based **Shop Management** software for different businesses
+          - Involved in back-end coding to manage dynamic pages using the CodeIgnitor framework
+          
+
+  - title: Technical Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - **Programming Languages:** Java, Python, PHP, C, C++, JavaScript
+      - **Databases:** MySQL, Apache Solr, MongoDB
+      - **Frameworks/Libraries:** Spring Boot, Java Servlet, Jsoup, Scrapy, Codeigniter, jQuery, Bootstrap3
+      - **Web Technologies:** AJAX, HTML5, CSS3, JSON
+      - **Web Servers:** Lampp, Xampp, Apache
+      - **Version Control:** Git
+      - **CMS:** WordPress
+      - **Software Methodologies:** SDLC, STLC, MVC, Agile, Scrum, Waterfall
+      - **OS Environments:** Linux, Windows
+      - **Others:** Docker, Maven, Rancher, Algorithms, System Analysis and Design
+
+  
+  - title: Relevant Coursework # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - Foundations of Data Science, Data Mining, Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Structure Programming C, Object Oriented Programming - C++, Java Programming, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
+
+
+
+  - title: Programming Background # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - **Contest Participation:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011
+      - Solved over 400 problems from different online judges
+      - Participated regularly in online programming contests hosted by online judges such as LightOJ, UVa Online Judge, etc.
+
+
+
+  - title: Voluntary University Services # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - **Competitive Programming Instructor:** Conducted workshops on problem-solving especially using C and C++ with dedicated sessions on Data Structure and Algorithms
+      - **Public Relations Officer and Vice-President:** Spent a lot of my time as a committee member of the Leading University Computer Club (LUCC) taking on roles such as Public Relations Officer and Vice-President
+      - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon
+
+
+  - title: Conference Participation # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - ICBSLP 2019: International Conference on Bangla Speech and Language Processing
+      - ICBSLP 2018: International Conference on Bangla Speech and Language Processing
+  
+
+  # - title: Test Score Information # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content: |
+  #     - **Graduate Record Examinations General Test (GRE):** Overall: 304, (Quantitative-159, Verbal-145, AWA-3.0)
+  #     - **International English Language Testing System (IELTS):** Overall: 7.0, (Listening-7.0, Reading-6.0, Writing-6.0, Speaking-8.0)
+  
+
+
+
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in software engineering and programming languages some of my other interests and hobbies are:
+  #     - Playing Cricket, Tennis
+  #     - Hiking
+  #     - Biking
+  #     - Watching movies
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  #    Look at this cool image  
+  #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+references_title: Thanks to [Modern-Resume-Theme]
+
+
+# to link external resource, to open in a new tab
+# [link tilte](link url){:target="_blank" rel="noopener"}
+# [Modern-Resume-Theme](https://github.com/sproogen/modern-resume-theme){:target="_blank" rel="noopener"}
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
