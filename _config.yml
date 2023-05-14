@@ -148,8 +148,8 @@ content:
         link: https://en.wikipedia.org/wiki/Pipilika
         # link_text: Search Engine Pipilika 
         sub_title: Software Engineer (R&D)
-        caption: August 2017 - Present
-        # caption: August 2017 - March 2021
+        # caption: August 2017 - Present
+        caption: August 2017 - March 2021
         
         # quote: >
         #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
@@ -165,7 +165,7 @@ content:
  
            - **Solr Analytic Library:** The development of this plug and play library required a lot of individual research which can provide domain wise time series data for any project build upon Apache Solr.
  
-           - **Rich Document Parser Library:** Wrote generic parser using jsoup library to extract data from file types such as DOC, PDF, PPT, CSV, etc. Extracting Bangla Unicode data from PDF files was the biggest challenge of all and still under development.
+           - **Rich Document Parser Library:** Wrote generic parser using jsoup library to extract data from file types such as DOC, PDF, PPT, CSV, etc. Extracting Bangla Unicode data from PDF files was the biggest challenge of all.
 
 
       - layout: left
@@ -175,8 +175,6 @@ content:
         sub_title: Programmer
         caption: April 2015 - August 2017
         
-        # quote: >
-        #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
           - Served more than three months as **In-Charge** of the Information Technology (IT) department
@@ -192,8 +190,6 @@ content:
         sub_title: Senior Software Engineer
         caption: Novermber 2014 - April 2015
         
-        # quote: >
-        #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
           - Developed the annual **Local Health Bulletin - 2015** report and **Photo Archiver System** for the Government of Bangladesh under the Ministry Of Health and Family Welfare as a vendor company
@@ -206,8 +202,6 @@ content:
         sub_title: Software Developer (While Doing Bachelor's)
         caption: February 2012 - June 2014
         
-        # quote: >
-        #   Bangladesh's first ever search engine 
 
         description: | # this will include new lines to allow paragraphs
           - Designed and Developed customized web-based **Shop Management** software for different businesses
@@ -252,11 +246,11 @@ content:
       - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University platoon
 
 
-  - title: Conference Participation # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      - ICBSLP 2019: International Conference on Bangla Speech and Language Processing, SUST
-      - ICBSLP 2018: International Conference on Bangla Speech and Language Processing, SUST
+  # - title: Conference Participation # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content: |
+  #     - ICBSLP 2019: International Conference on Bangla Speech and Language Processing, SUST
+  #     - ICBSLP 2018: International Conference on Bangla Speech and Language Processing, SUST
   
 
   # - title: Test Score Information # Title for the section
