@@ -159,7 +159,7 @@ content:
 
           - **Search Relevancy Improvement:** Improved keyword-based search relevancy by designing dynamic schema in Apache Solr supported by the calculative implementation of Solr’s dismax query parser and query boosting.
  
-          - **A2i Search Portal:** Spend around six months to find out a generic approach to Crawl, Parse, and Index the unstructured data from over 40,000 websites and later on provided REST API using Spring Boot.
+          - **A2i Search Portal:** Spend around six months to discover a generic approach to Crawl, Parse, and Index the unstructured data from over 40,000 websites and later on wrote REST API using Spring Boot.
  
           - **Spellchecker Context-Aware Library:** After month-long, thorough research into the project improved the file—Dictionary—loading time by 20 seconds.
  
