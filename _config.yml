@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rafi. Currently, I’m a second-year computer science PhD student at the [University of Alabama at Birmingham](https://www.uab.edu){:target="_blank" rel="noopener"} and working as a Graduate Research Assistant under [Dr. Thomas Gilray](https://thomas.gilray.org){:target="_blank" rel="noopener"} in the HARP lab.
 
     <br/>
-    Before that, I worked as a Software Engineer (R&D) at [Bangla Search Engine (Pipilika)](https://en.wikipedia.org/wiki/Pipilika){:target="_blank" rel="noopener"} for almost 4 years. Prior to that, I was working in the software industry for more than 3+ years taking on roles such as Programmer, Senior Software Engineer, and Software Developer. In 2013, I completed my bachelor’s degree in Computer Science and Engineering from [Leading University, Bangladesh](https://www.lus.ac.bd){:target="_blank" rel="noopener"}.
+    Prior to that, I worked as a Software Engineer (R&D) at [Bangla Search Engine (Pipilika)](https://en.wikipedia.org/wiki/Pipilika){:target="_blank" rel="noopener"} for almost 4 years. Before that, I was working in the software industry for more than 3 years taking on roles such as Programmer, Senior Software Engineer, and Software Developer. I earned my bachelor's degree in Computer Science and Engineering from [Leading University, Bangladesh](https://www.lus.ac.bd){:target="_blank" rel="noopener"}, in 2013.
 
 
 # <br/>
@@ -110,7 +110,7 @@ content:
   - title: Research Interest # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - Programming Languages, Software Engineering, Machine Learning, Data Science, Information Retrieval, Human-Computer Interaction and Cybersecurity
+      - Programming Languages, Software Engineering, High-Performance Computing, Machine Learning, Information Retrieval, and Human-Computer Interaction
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -163,9 +163,9 @@ content:
  
           - **Spellchecker Context-Aware Library:** After month-long, thorough research into the project improved the file—Dictionary—loading time by 20 seconds.
  
-           - **Solr Analytic Library:** The development of this plug and play library required a lot of individual research which can provide domain wise time series data for any project build upon Apache Solr.
+          - **Solr Analytic Library:** The development of this plug and play library required a lot of individual research which can provide domain wise time series data for any project build upon Apache Solr.
  
-           - **Rich Document Parser Library:** Wrote generic parser using jsoup library to extract data from file types such as DOC, PDF, PPT, CSV, etc. Extracting Bangla Unicode data from PDF files was the biggest challenge of all.
+          - **Rich Document Parser Library:** Wrote generic parser using jsoup library to extract data from file types such as DOC, PDF, PPT, CSV, etc. Extracting Bangla Unicode data from PDF files was the biggest challenge of all.
 
 
       - layout: left
@@ -227,8 +227,7 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - **Contest Participation:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011
-      - Solved over 400 problems from different online judges
-      - Participated regularly in online programming contests hosted by online judges such as LightOJ, UVa Online Judge, etc.
+      - Solved over 400 problems from different online judges such as LightOJ, UVa Online Judge, etc.
 
 
   # - title: Relevant Coursework # Title for the section
@@ -244,7 +243,9 @@ content:
       - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB
       - **Competitive Programming Instructor:** Conducted workshops on problem-solving especially using C and C++ with dedicated sessions on Data Structure and Algorithms at Leading University
       - **Public Relations Officer:** Coordinated and managed several Intra-university programming contests for Leading University Computer Club (LUCC)
-      - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University Platoon
+
+
+ # - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University Platoon
 
 
   # - title: Recent Activities # Title for the section
