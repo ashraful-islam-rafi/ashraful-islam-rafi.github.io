@@ -155,7 +155,7 @@ content:
         #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
 
         description: | # this will include new lines to allow paragraphs
-          - **Search Engine Improvement:** Conducting extensive research using ML techniques such as Deep Learning to solve Natural Language Processing (NLP) problems for the Bengali Language.
+          - **Search Engine Improvement:** Conducted extensive research using ML techniques such as Deep Learning to solve Natural Language Processing (NLP) problems for the Bengali Language.
 
           - **Search Relevancy Improvement:** Improved keyword-based search relevancy by designing dynamic schema in Apache Solr supported by the calculative implementation of Solr’s dismax query parser and query boosting.
  
@@ -163,7 +163,7 @@ content:
  
           - **Spellchecker Context-Aware Library:** After month-long, thorough research into the project improved the file—Dictionary—loading time by 20 seconds.
  
-          - **Solr Analytic Library:** The development of this plug and play library required a lot of individual research which can provide domain wise time series data for any project build upon Apache Solr.
+          - **Solr Analytic Library:** The development of this plug-and-play library required a lot of individual research which can provide domain-wise time series data for any project build upon Apache Solr.
  
           - **Rich Document Parser Library:** Wrote generic parser using jsoup library to extract data from file types such as DOC, PDF, PPT, CSV, etc. Extracting Bangla Unicode data from PDF files was the biggest challenge of all.
 
