@@ -52,9 +52,9 @@ additional_links:
 # About Section
 # about_title: About Me
 # Starts from here
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi. I am a second-year computer science PhD student at [UAB](https://www.uab.edu){:target="_blank" rel="noopener"}, specializing in functional compilation and functional program analysis under the supervision of [Dr. Thomas Gilray](https://thomas.gilray.org){:target="_blank" rel="noopener"} in the HARP lab.
+  Hi, my name's Rafi. I am a third-year computer science PhD student at [UAB](https://www.uab.edu){:target="_blank" rel="noopener"}, specializing in functional compilation and functional program analysis under the supervision of [Dr. Thomas Gilray](https://thomas.gilray.org){:target="_blank" rel="noopener"} in the HARP lab.
 
     <br/>
     Prior to that, I worked as a Software Engineer (R&D) at [Bangla Search Engine (Pipilika)](https://en.wikipedia.org/wiki/Pipilika){:target="_blank" rel="noopener"} for almost 4 years. Before that, I was working in the software industry for more than 3 years taking on roles such as Programmer, Senior Software Engineer, and Software Developer. I earned my bachelor's degree in Computer Science and Engineering from [Leading University, Bangladesh](https://www.lus.ac.bd){:target="_blank" rel="noopener"}, in 2013.
@@ -239,7 +239,7 @@ content:
   - title: Voluntary Services # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Treasurer:** Managing all the financial operations of the graduate student organization, Bangladesh Student Association (BSA) at UAB
+      - **Treasurer:** Managed all the financial operations of the graduate student organization, Bangladesh Student Association (BSA) at UAB, 2023
       - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB
       - **Competitive Programming Instructor:** Conducted workshops on problem-solving especially using C and C++ with dedicated sessions on Data Structure and Algorithms at Leading University
       - **Public Relations Officer:** Coordinated and managed several Intra-university programming contests for Leading University Computer Club (LUCC)
