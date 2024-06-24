@@ -251,13 +251,13 @@ content:
   #   content: |
   #     - Programming Languages, Software Engineering, High-Performance Computing, Machine Learning, Information Retrieval, and Human-Computer Interaction
 
-  - title: Voluntary Services # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      - **Treasurer:** Managed all the financial operations of the graduate student organization, Bangladesh Student Association (BSA) at UAB, 2023
-      - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB
-      - **Competitive Programming Instructor:** Conducted workshops on problem-solving especially using C and C++ with dedicated sessions on Data Structure and Algorithms at Leading University
-      - **Public Relations Officer:** Coordinated and managed several Intra-university programming contests for Leading University Computer Club (LUCC)
+  # - title: Voluntary Services # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content: |
+  #     - **Treasurer:** Managed all the financial operations of the graduate student organization, Bangladesh Student Association (BSA) at UAB, 2023
+  #     - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB
+  #     - **Competitive Programming Instructor:** Conducted workshops on problem-solving especially using C and C++ with dedicated sessions on Data Structure and Algorithms at Leading University
+  #     - **Public Relations Officer:** Coordinated and managed several Intra-university programming contests for Leading University Computer Club (LUCC)
 
 
  # - **Security Assurance Agent:** Served as a Security Assurance Agent of the Bangladesh National Cadet Corps (BNCC), Leading University Platoon
