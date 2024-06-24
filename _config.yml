@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ashraful Islam Rafi
-title: PhD student and Graduate Research Assistant at UAB
+title: Graduate Research Assistant at UAB
 email: aislam@uab.edu
 # website: www.github.com/sproogen/resume-theme
 
@@ -55,10 +55,7 @@ additional_links:
 # Starts from here
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi. I am a third-year computer science PhD student at [UAB](https://www.uab.edu){:target="_blank" rel="noopener"}, specializing in functional compilation and functional program analysis under the supervision of [Dr. Thomas Gilray](https://thomas.gilray.org){:target="_blank" rel="noopener"} in the HARP lab.
-
-    <br/>
-    Prior to that, I worked as a Software Engineer (R&D) at [Bangla Search Engine (Pipilika)](https://en.wikipedia.org/wiki/Pipilika){:target="_blank" rel="noopener"} for almost 4 years. Before that, I was working in the software industry for more than 3 years taking on roles such as Programmer, Senior Software Engineer, and Software Developer. I earned my bachelor's degree in Computer Science and Engineering from [Leading University, Bangladesh](https://www.lus.ac.bd){:target="_blank" rel="noopener"}, in 2013.
+  Hi, my name's Rafi. I am a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and over 7 years of industry experience taking on roles such as Software Engineer, Programmer, and Software Developer.
 
 
 # <br/>
@@ -108,10 +105,6 @@ content:
 # I also served voluntarily as a *Security Assurance* member of the **Bangladesh National Cadet Corps Club** in my university
 
 
-  - title: Research Interest # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-      - Programming Languages, Software Engineering, High-Performance Computing, Machine Learning, Information Retrieval, and Human-Computer Interaction
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -135,14 +128,23 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # - layout: left
-      #   title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
-      #   link: www.uab.edu
-      #   # link_text: Search Engine Pipilika 
-      #   sub_title: GRADUATE RESEARCH ASSISTANT
-      #   caption: Januray 2022 - Present
-      #   # caption: August 2017 - March 2021
+      - layout: left
+        title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
+        link: www.uab.edu
+        # link_text: Search Engine Pipilika 
+        sub_title: GRADUATE RESEARCH ASSISTANT
+        caption: Januray 2022 - Present
+        # caption: August 2017 - March 2021
         
+        description: | # this will include new lines to allow paragraphs
+          - **Brouhaha (Prototype Research Compiler):** Led a team of 4 other students and actively contributed to the development of Brouhaha. It currently outperforms other compilers like Chicken and Guile, achieving 3x better running times for certain benchmarks.
+
+          - **Compiler:** Developed a functional compiler in Racket that translates minimal Racket code into C++.
+
+          - **Program Analysis:** Wrote abstract machines such as CEK, CESK, and CESK* using Racket to perform abstract interpretation (k-CFA, m-CFA) of higher-order programs written in Racket or Scheme.
+
+          - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
+
 
       - layout: left
         title: BANGLA SEARCH ENGINE (PIPILIKA)
@@ -156,17 +158,15 @@ content:
         #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
 
         description: | # this will include new lines to allow paragraphs
-          - **Search Engine Improvement:** Conducted extensive research using ML techniques such as Deep Learning to solve Natural Language Processing (NLP) problems for the Bengali Language.
-
-          - **Search Relevancy Improvement:** Improved keyword-based search relevancy by designing dynamic schema in Apache Solr supported by the calculative implementation of Solr’s dismax query parser and query boosting.
+          - **Search Relevancy Improvement:** Enhanced keyword-based search relevancy by designing a dynamic schema in Apache Solr, implementing Solr’s dismax query parser and query boosting, resulting in a 35% increase in relevant search results.
  
-          - **A2i Search Portal:** Spend around six months to discover a generic approach to Crawl, Parse, and Index the unstructured data from over 40,000 websites and later on wrote REST API using Spring Boot.
+          - **Government Data Search Portal:** Developed a generic approach to crawl, parse, and index unstructured data from over 40,000 Bangladesh Government websites. Subsequently, wrote a REST API to query the indexed data using Spring Boot.
  
           - **Spellchecker Context-Aware Library:** After month-long, thorough research into the project improved the file—Dictionary—loading time by 20 seconds.
  
-          - **Solr Analytic Library:** The development of this plug-and-play library required a lot of individual research which can provide domain-wise time series data for any project build upon Apache Solr.
+          - **Solr Analytic Library:** Developed this library using Spring Boot to provide domain-specific time series data for Solr projects, improving reporting capabilities and reducing the debugging time by 20%.
  
-          - **Rich Document Parser Library:** Wrote generic parser using jsoup library to extract data from file types such as DOC, PDF, PPT, CSV, etc. Extracting Bangla Unicode data from PDF files was the biggest challenge of all.
+          - **Rich Document Parser:** Wrote a generic parser using jsoup to extract Bangla Unicode data from files (PDF, DOC, PPT, CSV), resulting in a 25% increase in relevant search query matches.
 
 
       - layout: left
@@ -178,11 +178,13 @@ content:
         
 
         description: | # this will include new lines to allow paragraphs
-          - Served more than three months as **In-Charge** of the Information Technology (IT) department
-          - Developed **Result Prediction Tool** and **Online Admission System**  using PHP, MySql, Ajax, jQuery, Bootstrap3
-          - Modify, correct, and improve the overall performance of the University Support System (USS)
-          - Coordinated and Monitored vendor company on developing **Human Resources Management System (HRMS)** Software as per the Software Requirements Specification (SRS)
-          - Establish, build, and manage relationships with corporate partners
+          - Served over 3 months as the in-charge of the Information Technology (IT) department, managing all IT operations and ensuring efficient and effective technology solutions across the organization.
+
+          - Developed an **Online Admission System** using PHP, MySQL, Ajax, and Bootstrap3, contributing to 25% of total admissions.
+          
+          - Improved the University Support System (USS) report generation time by 30% by redesigning the MySQL database schema. 
+          
+          - Coordinated and monitored vendor company in developing Human Resources Management System (HRMS) software.
 
       - layout: left
         title: DURBAR SOFTWARE
@@ -193,42 +195,49 @@ content:
         
 
         description: | # this will include new lines to allow paragraphs
-          - Developed the annual **Local Health Bulletin - 2015** report and **Photo Archiver System** for the Government of Bangladesh under the Ministry Of Health and Family Welfare as a vendor company
-          - Used Bootstrap Framework for cross-platform compatibility
+          - Developed the annual **Local Health Bulletin Report (2015)** and **Photo Archiver System** for the Ministry of Health and Family Welfare, Government of Bangladesh.
+
+          - Enhanced cross-platform compatibility by integrating Bootstrap3, resulting in a 40% increase in mobile user engagement.
+
 
       - layout: left
         title: IT LAB SOLUTIONS LTD.
         link: www.itlabsolutions.com
         # link_text: IT Lab Solutions Ltd.
-        sub_title: Software Developer (While Doing Bachelor's)
+        sub_title: Software Developer
         caption: February 2012 - June 2014
         
 
         description: | # this will include new lines to allow paragraphs
-          - Designed and Developed customized web-based **Shop Management** software for different businesses
-          - Involved in back-end coding to manage dynamic pages using the CodeIgnitor framework
+          - Designed and Developed customized web-based **Shop Management** software for different businesses using CodeIgniter.
           
 
-  - title: Technical Skills # Title for the section
+  - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Programming Languages:** Java, Python, Racket, C, C++, PHP, JavaScript
+      - **Programming Languages:** Java, C, C++, Python, Racket, PHP, JavaScript.
       - **Databases:** MySQL, Apache Solr, MongoDB
-      - **Frameworks/Libraries:** Spring Boot, Java Servlet, Jsoup, Scrapy, Flask, Codeigniter, jQuery, Bootstrap3
-      - **Web Technologies:** AJAX, HTML5, CSS3, JSON
-      - **Web Servers:** Lampp, Xampp, Apache
-      - **Version Control:** Git
+      - **Frameworks/Libraries:** Spring Boot, Java Servlet, Flask, Codeigniter, Jsoup, Scrapy, jQuery, Bootstrap3, AJAX
+      - **Web Technologies:** HTML5, CSS3, JSON
+      - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
+      - **DevOps & Tools:** Git, Docker, AWS, Maven, Rancher
       - **CMS:** WordPress
-      - **Software Methodologies:** SDLC, STLC, MVC, Agile, Scrum, Waterfall
-      - **OS Environments:** Linux, MacOS, Windows
-      - **Others:** Docker, Maven, Rancher, AWS, System Analysis and Design
+      - **Methodologies:** SDLC, STLC, MVC, Agile, Scrum, Waterfall
 
 
-  - title: Programming Background # Title for the section
+  - title: Extracurricular / Activities # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Contest Participation:** IUT 4th National ICT Fest - 2012, NSU ACM ICPC Dhaka Site - 2011, SUST Inter-University Programming Contest – 2011, IUT Inter-University Programming Contest – 2011
-      - Solved over 400 problems from different online judges such as LightOJ, UVa Online Judge, etc.
+      - **Treasurer:** Managed financial operations of the Bangladesh Student Association, a graduate student organization at UAB.
+
+      - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB
+
+      - **Tutor:** Conducted over 15 programming workshops focused on Data Structures and Algorithms at Leading University, with each session attended by more than 40 students.
+
+      - **Contest Participation:** Competed in various national and inter-university programming contests, including IUT 4th National ICT Fest (2012), NSU ACM ICPC Dhaka Site (2011), SUST Inter-University Programming Contest (2011), and IUT Inter-University Programming Contest (2011).
+
+      - **Public Relations Officer:** Coordinated and managed 3 Intra-university programming contests for the Leading University Computer Club (LUCC).
+
 
 
   # - title: Relevant Coursework # Title for the section
@@ -236,6 +245,11 @@ content:
   #   content: |
   #     - Advanced Algorithms & Apps, Foundations of Data Science, Data Mining, Artificial Intelligence with Prolog, Data Structure and Algorithms, Computer Algorithms and Complexity, Structure Programming C, Object Oriented Programming - C++, Java Programming, Operating Systems,  Database Management System, Software Engineering, and System Analysis, Design and Development
 
+
+  # - title: Research Interest # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content: |
+  #     - Programming Languages, Software Engineering, High-Performance Computing, Machine Learning, Information Retrieval, and Human-Computer Interaction
 
   - title: Voluntary Services # Title for the section
     layout: text # Type of content section (list/text)
