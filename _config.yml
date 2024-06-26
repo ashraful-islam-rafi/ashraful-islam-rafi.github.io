@@ -55,7 +55,7 @@ additional_links:
 # Starts from here
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi. I am a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and over 7 years of industry experience taking on roles such as Software Engineer, Programmer, and Software Developer.
+  Hi, my name's Rafi. I am a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and over 7 years of industry experience taking on roles such as Software Engineer, and Programmer.
 
 
 # <br/>
@@ -137,11 +137,11 @@ content:
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Led a team of 4 other students and actively contributed to the development of Brouhaha. It currently outperforms other compilers like Chicken and Guile, achieving 3x better running times for certain benchmarks.
+          - **Brouhaha (Prototype Research Compiler):** Led a team of 4 other students and actively contributed to the development of Brouhaha. It currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks.
 
           - **Compiler:** Developed a functional compiler in Racket that translates minimal Racket code into C++.
 
-          - **Program Analysis:** Wrote abstract machines such as CEK, CESK, and CESK* using Racket to perform abstract interpretation (k-CFA, m-CFA) of higher-order programs written in Racket or Scheme.
+          - **Program Analysis:** Performed control flow analysis (k-CFA, where k >= 1) of higher-order programs by implementing abstract machines (CESK, CESK*) to detect function inlining opportunities.
 
           - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
 
@@ -158,15 +158,16 @@ content:
         #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
 
         description: | # this will include new lines to allow paragraphs
-          - **Search Relevancy Improvement:** Enhanced keyword-based search relevancy by designing a dynamic schema in Apache Solr, implementing Solr’s dismax query parser and query boosting, resulting in a 35% increase in relevant search results.
+          - **Search Relevancy Improvement:** Enhanced keyword-based search relevancy by redesigning the Apache Solr schema, implementing the dismax query parser, and query boosting, resulting in a 35% increase in relevant search results.
  
-          - **Government Data Search Portal:** Developed a generic approach to crawl, parse, and index unstructured data from over 40,000 Bangladesh Government websites. Subsequently, wrote a REST API to query the indexed data using Spring Boot.
+          - **Large-Scale Data Search Portal:** Developed a generic approach using Scrapy to crawl, parse, and index unstructured data from over 40,000 websites, boosting indexed data by 18% and enhancing search capabilities.
  
-          - **Spellchecker Context-Aware Library:** After month-long, thorough research into the project improved the file—Dictionary—loading time by 20 seconds.
+          - **Spellchecker Context-Aware Library:** Reduced the Dictionary file loading time by 20 seconds, by fixing various bugs.
  
-          - **Solr Analytic Library:** Developed this library using Spring Boot to provide domain-specific time series data for Solr projects, improving reporting capabilities and reducing the debugging time by 20%.
+          - **Solr Analytic Library:** Used Spring Boot to provide domain-specific time series data for Solr projects, improving reporting capabilities and reducing the debugging time by 20%.
  
-          - **Rich Document Parser:** Wrote a generic parser using jsoup to extract Bangla Unicode data from files (PDF, DOC, PPT, CSV), resulting in a 25% increase in relevant search query matches.
+          - **Rich Document Parser:** Extracted Bangla Unicode data from files (PDF, DOC, PPT, CSV) using jsoup, achieving a 25% improvement in relevant search query matches. 
+
 
 
       - layout: left
@@ -180,24 +181,25 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Served over 3 months as the in-charge of the Information Technology (IT) department, managing all IT operations and ensuring efficient and effective technology solutions across the organization.
 
-          - Developed an **Online Admission System** using PHP, MySQL, Ajax, and Bootstrap3, contributing to 25% of total admissions.
+          - Developed an Online Admission System using PHP, MySQL, Ajax, and Bootstrap3, contributing to 25% of total admissions.
           
-          - Improved the University Support System (USS) report generation time by 30% by redesigning the MySQL database schema. 
+          - Improved the University Support System (USS) report generation time by 30% by redesigning the MySQL database schema.  
           
           - Coordinated and monitored vendor company in developing Human Resources Management System (HRMS) software.
 
-      - layout: left
-        title: DURBAR SOFTWARE
-        link: https://durbar.co
-        # link_text: Durbar Software, Bangladesh
-        sub_title: Senior Software Engineer
-        caption: Novermber 2014 - April 2015
+
+      # - layout: left
+      #   title: DURBAR SOFTWARE
+      #   link: https://durbar.co
+      #   # link_text: Durbar Software, Bangladesh
+      #   sub_title: Senior Software Engineer
+      #   caption: Novermber 2014 - April 2015
         
 
-        description: | # this will include new lines to allow paragraphs
-          - Developed the annual **Local Health Bulletin Report (2015)** and **Photo Archiver System** for the Ministry of Health and Family Welfare, Government of Bangladesh.
+      #   description: | # this will include new lines to allow paragraphs
+      #     - Developed the annual **Local Health Bulletin Report (2015)** and **Photo Archiver System** for the Ministry of Health and Family Welfare, Government of Bangladesh.
 
-          - Enhanced cross-platform compatibility by integrating Bootstrap3, resulting in a 40% increase in mobile user engagement.
+      #     - Enhanced cross-platform compatibility by integrating Bootstrap3, resulting in a 40% increase in mobile user engagement.
 
 
       - layout: left
@@ -205,20 +207,20 @@ content:
         link: www.itlabsolutions.com
         # link_text: IT Lab Solutions Ltd.
         sub_title: Software Developer
-        caption: February 2012 - June 2014
+        caption: September 2013 - December 2014
         
 
         description: | # this will include new lines to allow paragraphs
-          - Designed and Developed customized web-based **Shop Management** software for different businesses using CodeIgniter.
+          - Designed and developed customized web-based **Shop Management** software for over 5 different businesses.
           
 
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Programming Languages:** Java, C, C++, Python, Racket, PHP, JavaScript.
+      - **Programming Languages:** Java, C, C++, Python, Racket, PHP, JavaScript
       - **Databases:** MySQL, Apache Solr, MongoDB
       - **Frameworks/Libraries:** Spring Boot, Java Servlet, Flask, Codeigniter, Jsoup, Scrapy, jQuery, Bootstrap3, AJAX
-      - **Web Technologies:** HTML5, CSS3, JSON
+      - **Web Technologies:** HTML5, CSS3
       - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
       - **DevOps & Tools:** Git, Docker, AWS, Maven, Rancher
       - **CMS:** WordPress
@@ -230,7 +232,7 @@ content:
     content: |
       - **Treasurer:** Managed financial operations of the Bangladesh Student Association, a graduate student organization at UAB.
 
-      - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB
+      - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB.
 
       - **Tutor:** Conducted over 15 programming workshops focused on Data Structures and Algorithms at Leading University, with each session attended by more than 40 students.
 
