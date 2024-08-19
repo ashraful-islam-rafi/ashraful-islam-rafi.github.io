@@ -58,8 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rafi. I am a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and over 7 years of industry experience taking on roles such as Software Engineer, and Programmer.
 
 
-# <br/>
+<br/>
 # I am most skilled in: <mark>Research, Developing Software</mark> and <mark>Eating Pizza</mark> 🍕
+I am currently pursuing Software Engineering or Full Stack Developer positions that will allow me to apply my skills, continue learning and growing professionally, and embrace new challenges.
 
 
 
@@ -71,7 +72,7 @@ content:
         title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
         link: www.uab.edu
         # link_text: Leading University, Sylhet
-        caption: January, 2022 - Present 
+        caption: January, 2022 - December, 2024 
         sub_title: Doctor of Philosophy (Ph.D.) in Computer Science
         # quote: >
         #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
@@ -85,7 +86,7 @@ content:
         link: www.lus.ac.bd
         # link_text: Leading University, Sylhet
         # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
-        caption: September, 2009 - August, 2013 
+        caption: August, 2009 - August, 2013 
         sub_title: B. Sc. in Computer Science and Engineering
       #   # quote: >
       #   #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
@@ -137,7 +138,7 @@ content:
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Led a team of 4 other students and actively contributed to the development of Brouhaha. It currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks.
+          - **Brouhaha (Prototype Research Compiler):** Led a team of 3 other students and actively contributed to the development of Brouhaha. It currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks.
 
           - **Compiler:** Developed a functional compiler in Racket that translates minimal Racket code into C++.
 
@@ -164,7 +165,7 @@ content:
  
           - **Spellchecker Context-Aware Library:** Reduced the Dictionary file loading time by 20 seconds, by fixing various bugs.
  
-          - **Solr Analytic Library:** Used Spring Boot to provide domain-specific time series data for Solr projects, improving reporting capabilities and reducing the debugging time by 20%.
+          - **Solr Analytic Library:** Wrote RESTful API using Spring Boot to provide domain-specific time series data for Solr projects, improving reporting capabilities and reducing the debugging time by 20%.
  
           - **Rich Document Parser:** Extracted Bangla Unicode data from files (PDF, DOC, PPT, CSV) using jsoup, achieving a 25% improvement in relevant search query matches. 
 
@@ -211,16 +212,16 @@ content:
         
 
         description: | # this will include new lines to allow paragraphs
-          - Designed and developed customized web-based **Shop Management** software for over 5 different businesses.
+          - Designed and developed customized web-based **Shop Management** software for over 5 different businesses using the CodeIgniter, Ajax, Bootstrap3 with MySQL as the database.
           
 
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Programming Languages:** Java, C, C++, Python, Racket, PHP, JavaScript
+      - **Programming Languages:** Python, Java, C, C++, PHP, Racket, JavaScript
       - **Databases:** MySQL, Apache Solr, MongoDB
       - **Frameworks/Libraries:** Spring Boot, Java Servlet, Flask, Codeigniter, Jsoup, Scrapy, jQuery, Bootstrap3, AJAX
-      - **Web Technologies:** HTML5, CSS3
+      - **Web Technologies:** HTML5, CSS3, RESTful API
       - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
       - **DevOps & Tools:** Git, Docker, AWS, Maven, Rancher
       - **CMS:** WordPress
@@ -230,9 +231,9 @@ content:
   - title: Extracurricular / Activities # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Treasurer:** Managed financial operations of the Bangladesh Student Association, a graduate student organization at UAB.
-
       - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB.
+      
+      - **Treasurer:** Managed financial operations of the Bangladesh Student Association, a graduate student organization at UAB.
 
       - **Tutor:** Conducted over 15 programming workshops focused on Data Structures and Algorithms at Leading University, with each session attended by more than 40 students.
 
