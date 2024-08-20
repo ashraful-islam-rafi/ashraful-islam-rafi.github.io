@@ -137,11 +137,12 @@ content:
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Leading a team of three students in developing Brouhaha, which currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks. This performance primarily results from performing control flow analysis (k-CFA) to detect function inlining opportunities. (Github: Brouhaha)](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
+          - **Brouhaha (Prototype Research Compiler):** Leading a team of three students in developing Brouhaha, which currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks. This performance primarily results from performing control flow analysis (k-CFA) to detect function inlining opportunities. [Github: Brouhaha](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
 
-          - **Functional Compilation and Functional Program Analysis:** Surveyed over 120 academic papers and books, producing a (30-page report)](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"} with primary resources drawn from a diverse range of esteemed journals and conferences, including but not limited to POPL, PLDI, ICFP, and OOPSLA.
 
-          - **Compiler:** Wrote a functional compiler in Racket that translates minimal Racket code into C++. (Github: Compiler)](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
+          - **Functional Compilation and Functional Program Analysis:** Surveyed over 120 academic papers and books, producing a [30-page report](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"} with primary resources drawn from a diverse range of esteemed journals and conferences, including but not limited to POPL, PLDI, ICFP, and OOPSLA.
+
+          - **Compiler:** Wrote a functional compiler in Racket that translates minimal Racket code into C++. [Github: Compiler](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
 
           - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
 
@@ -167,7 +168,6 @@ content:
           - **Solr Analytic Library:** Wrote RESTful API using Spring Boot to provide domain-specific time series data for Solr projects, improving reporting capabilities and reducing the debugging time by 20%.
  
           - **Rich Document Parser:** Extracted Bangla Unicode data from files (PDF, DOC, PPT, CSV) using jsoup, achieving a 25% improvement in relevant search query matches. 
-
 
 
       - layout: left
