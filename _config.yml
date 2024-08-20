@@ -71,8 +71,8 @@ content:
         title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
         link: www.uab.edu
         # link_text: Leading University, Sylhet
-        caption: January, 2022 - December, 2024 | (GPA - 3.80/4.00)
-        sub_title: Doctor of Philosophy (Ph.D.) in Computer Science
+        caption: January, 2022 - December, 2024 
+        sub_title: Doctor of Philosophy (PhD) in Computer Science
         # quote: >
         #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
         # description: | # this will include new lines to allow paragraphs
@@ -80,14 +80,13 @@ content:
         
 
 
-      # - layout: top-middle
-      #   title: LEADING UNIVERSITY
-      #   link: www.lus.ac.bd
-      #   # link_text: Leading University, Sylhet
-      #   # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
-      #   caption: August, 2009 - August, 2013 
-      #   sub_title: B. Sc. in Computer Science and Engineering
-      
+      - layout: top-middle
+        title: LEADING UNIVERSITY
+        link: www.lus.ac.bd
+        # link_text: Leading University, Sylhet
+        # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
+        caption: August, 2009 - August, 2013 
+        sub_title: B. Sc. in Computer Science and Engineering
       #   # quote: >
       #   #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
       #   description: | # this will include new lines to allow paragraphs
