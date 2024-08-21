@@ -134,15 +134,15 @@ content:
         # link_text: Search Engine Pipilika 
         sub_title: Graduate Research Assistant
         caption: Januray 2022 - Present
-        caption: Alabama, USA
+        # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Leading a team of three students in developing Brouhaha, which currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks. This performance primarily results from performing control flow analysis (k-CFA) to detect function inlining opportunities. [Github: Brouhaha](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
+          - **Brouhaha (Prototype Research Compiler):** Leading a team of three students in developing Brouhaha, which currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks. This performance primarily results from performing control flow analysis (k-CFA) to detect function inlining opportunities. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
 
 
           - **Functional Compilation and Functional Program Analysis:** Surveyed over 120 academic papers and books, producing a [30-page report](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"} with primary resources drawn from a diverse range of esteemed journals and conferences, including but not limited to POPL, PLDI, ICFP, and OOPSLA.
 
-          - **Compiler:** Wrote a functional compiler in Racket that translates minimal Racket code into C++. [Github: Compiler](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
+          - **Compiler:** Wrote a functional compiler in Racket that translates minimal Racket code into C++. [Github Link](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
 
           - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
 
@@ -154,7 +154,6 @@ content:
         sub_title: Software Engineer (R&D)
         # caption: August 2017 - Present
         caption: August 2017 - March 2021
-        caption: Sylhet, BD
         
         # quote: >
         #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
@@ -177,8 +176,6 @@ content:
         # link_text: Southeast University, Bangladesh
         sub_title: Programmer
         caption: April 2015 - August 2017
-        caption: Dhaka, BD
-
         
 
         description: | # this will include new lines to allow paragraphs
@@ -211,7 +208,6 @@ content:
         # link_text: IT Lab Solutions Ltd.
         sub_title: Software Developer
         caption: September 2013 - December 2014
-        caption: Sylhet, BD
         
 
         description: | # this will include new lines to allow paragraphs
