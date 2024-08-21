@@ -129,10 +129,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
+        title: University of Alabama at Birmingham
         link: www.uab.edu
         # link_text: Search Engine Pipilika 
-        sub_title: GRADUATE RESEARCH ASSISTANT
+        sub_title: Graduate Research Assistant
         caption: Januray 2022 - Present
         # caption: August 2017 - March 2021
         
@@ -148,7 +148,7 @@ content:
 
 
       - layout: left
-        title: BANGLA SEARCH ENGINE (PIPILIKA)
+        title: Bangla Search Engine (Pipilika)
         link: https://en.wikipedia.org/wiki/Pipilika
         # link_text: Search Engine Pipilika 
         sub_title: Software Engineer (R&D)
@@ -171,7 +171,7 @@ content:
 
 
       - layout: left
-        title: SOUTHEAST UNIVERSITY
+        title: Southeast University
         link: https://seu.edu.bd
         # link_text: Southeast University, Bangladesh
         sub_title: Programmer
@@ -203,7 +203,7 @@ content:
 
 
       - layout: left
-        title: IT LAB SOLUTIONS LTD.
+        title: IT lab Solutions Ltd
         link: www.itlabsolutions.com
         # link_text: IT Lab Solutions Ltd.
         sub_title: Software Developer
