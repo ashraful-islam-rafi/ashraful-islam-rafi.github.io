@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Ashraful Islam Rafi
-title: Graduate Research Assistant at UAB
-email: aislam@uab.edu
+title: CS Graduate Student @ UAB
+email: ashrafulrafi@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -38,7 +38,7 @@ additional_links:
 
 - title: Curriculum Vitae 
   icon: far fa-file-pdf
-  url: https://ashraful-islam-rafi.github.io/Ashraful_Islam_Curriculum_Vitae.pdf
+  url: https://ashraful-islam-rafi.github.io/Ashraful_Islam_Resume.pdf
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -71,8 +71,8 @@ content:
         title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
         link: www.uab.edu
         # link_text: Leading University, Sylhet
-        caption: January, 2022 - December, 2024 
-        sub_title: Doctor of Philosophy (PhD) in Computer Science
+        caption: January 2022 - December 2024 
+        sub_title: M.S. in Computer Science
         # quote: >
         #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
         # description: | # this will include new lines to allow paragraphs
@@ -85,7 +85,7 @@ content:
         link: www.lus.ac.bd
         # link_text: Leading University, Sylhet
         # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
-        caption: August, 2009 - August, 2013 
+        caption: August 2009 - August 2013 
         sub_title: B. Sc. in Computer Science and Engineering
       #   # quote: >
       #   #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
@@ -133,7 +133,7 @@ content:
         link: www.uab.edu
         # link_text: Search Engine Pipilika 
         sub_title: Graduate Research Assistant
-        caption: Januray 2022 - Present
+        caption: Januray 2022 - August 26
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
