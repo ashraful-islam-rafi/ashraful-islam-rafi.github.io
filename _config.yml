@@ -137,7 +137,7 @@ content:
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Leading a team of three students in developing Brouhaha, which currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks. This performance primarily results from performing control flow analysis (k-CFA) to detect function inlining opportunities. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
+          - **Brouhaha (Prototype Research Compiler):** Led a team of three students in developing Brouhaha, which currently outperforms other compilers like Chicken and Guile, achieving **3x** better running times for certain benchmarks. This performance primarily results from performing control flow analysis (k-CFA) to detect function inlining opportunities. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
 
 
           - **Functional Compilation and Functional Program Analysis:** Surveyed over 120 academic papers and books, producing a [30-page report](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"} with primary resources drawn from a diverse range of esteemed journals and conferences, including but not limited to POPL, PLDI, ICFP, and OOPSLA.
@@ -224,7 +224,7 @@ content:
       - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
       - **DevOps & Tools:** Git, Docker, AWS, Maven, Rancher
       - **CMS:** WordPress
-      - **Methodologies:** SDLC, STLC, MVC, Agile, Scrum, Waterfall
+      - **Methodologies:** SDLC, STLC, MVC, Unit Testing, Agile, Scrum, Waterfall
 
 
   - title: Extracurricular / Activities # Title for the section
