@@ -169,6 +169,8 @@ content:
  
           - **Rich Document Parser:** Extracted Bangla Unicode data from files (PDF, DOC, PPT, CSV) using jsoup, achieving a 25% improvement in relevant search query matches. 
 
+          - **TIG Stack Deployment:** Implemented TIG (Telegraf, InfluxDB, Grafana) Stack on Pipilika's server for real-time infrastructure monitoring, reducing downtime through proactive issue detection.
+
 
       - layout: left
         title: Southeast University
