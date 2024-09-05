@@ -69,7 +69,7 @@ content:
     content:
       - layout: top-middle
         title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
-        link: www.uab.edu
+        link: https://www.uab.edu
         # link_text: Leading University, Sylhet
         caption: January 2022 - December 2024 
         sub_title: M.S. in Computer Science
