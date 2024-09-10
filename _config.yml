@@ -74,13 +74,14 @@ content:
         caption: January 2022 - December 2024 
         sub_title: MS in Computer Science
 
-      - layout: top-middle
-        title: LEADING UNIVERSITY
-        link: www.lus.ac.bd
-        # link_text: Leading University, Sylhet
-        # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
-        caption: August 2009 - August 2013 
-        sub_title: BS in Computer Science and Engineering
+      # - layout: top-middle
+      #   title: LEADING UNIVERSITY
+      #   link: www.lus.ac.bd
+      #   # link_text: Leading University, Sylhet
+      #   # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
+      #   caption: August 2009 - August 2013 
+      #   sub_title: BS in Computer Science and Engineering
+      
       #   # quote: >
       #   #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
       #   description: | # this will include new lines to allow paragraphs
@@ -246,11 +247,11 @@ content:
       
       - **Treasurer:** Managed financial operations of the Bangladesh Student Association, a graduate student organization at UAB.
 
-      - **Tutor:** Conducted over 15 programming workshops focused on Data Structures and Algorithms at Leading University, with each session attended by more than 40 students.
+      # - **Tutor:** Conducted over 15 programming workshops focused on Data Structures and Algorithms at Leading University, with each session attended by more than 40 students.
 
-      - **Contest Participation:** Competed in various national and inter-university programming contests, including IUT 4th National ICT Fest (2012), NSU ACM ICPC Dhaka Site (2011), SUST Inter-University Programming Contest (2011), and IUT Inter-University Programming Contest (2011).
+      # - **Contest Participation:** Competed in various national and inter-university programming contests, including IUT 4th National ICT Fest (2012), NSU ACM ICPC Dhaka Site (2011), SUST Inter-University Programming Contest (2011), and IUT Inter-University Programming Contest (2011).
 
-      - **Public Relations Officer:** Coordinated and managed 3 Intra-university programming contests for the Leading University Computer Club (LUCC).
+      # - **Public Relations Officer:** Coordinated and managed 3 Intra-university programming contests for the Leading University Computer Club (LUCC).
 
 
 
