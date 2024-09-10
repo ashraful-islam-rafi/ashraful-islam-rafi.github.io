@@ -55,7 +55,7 @@ additional_links:
 # Starts from here
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi. I am a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and over 7 years of industry experience taking on roles such as Software Engineer, and Programmer.
+  Hi, my name's Rafi. I am a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and over 7 years of software development experience.
 
     <br/>
     I am currently pursuing <mark>Software Engineering</mark> or <mark>Full Stack Developer</mark> positions that will allow me to apply my skills, continue learning and growing professionally, and embrace new challenges.
@@ -81,7 +81,7 @@ content:
       #   # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
       #   caption: August 2009 - August 2013 
       #   sub_title: BS in Computer Science and Engineering
-      
+
       #   # quote: >
       #   #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
       #   description: | # this will include new lines to allow paragraphs
@@ -240,18 +240,19 @@ content:
       - **Methodologies:** SDLC, STLC, MVC, Unit Testing, Agile, Scrum, Waterfall
 
 
-  - title: Extracurricular / Activities # Title for the section
+  - title: Extracurricular / Activities / News # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Judge:** Served as a judge of Summer 2023 Undergraduate Research Expo, UAB.
+      - Served as a **Judge** for the Summer 2023 Undergraduate Research Expo at UAB, evaluating student research projects.
       
-      - **Treasurer:** Managed financial operations of the Bangladesh Student Association, a graduate student organization at UAB.
+      - Acted as **Treasurer** for the Bangladesh Student Association at UAB (2022-23), overseeing finances and budgeting.
 
-      # - **Tutor:** Conducted over 15 programming workshops focused on Data Structures and Algorithms at Leading University, with each session attended by more than 40 students.
 
-      # - **Contest Participation:** Competed in various national and inter-university programming contests, including IUT 4th National ICT Fest (2012), NSU ACM ICPC Dhaka Site (2011), SUST Inter-University Programming Contest (2011), and IUT Inter-University Programming Contest (2011).
+  # - **Tutor:** Conducted over 15 programming workshops focused on Data Structures and Algorithms at Leading University, with each session attended by more than 40 students.
 
-      # - **Public Relations Officer:** Coordinated and managed 3 Intra-university programming contests for the Leading University Computer Club (LUCC).
+  # - **Contest Participation:** Competed in various national and inter-university programming contests, including IUT 4th National ICT Fest (2012), NSU ACM ICPC Dhaka Site (2011), SUST Inter-University Programming Contest (2011), and IUT Inter-University Programming Contest (2011).
+
+  # - **Public Relations Officer:** Coordinated and managed 3 Intra-university programming contests for the Leading University Computer Club (LUCC).
 
 
 
