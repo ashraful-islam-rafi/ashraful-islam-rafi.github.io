@@ -135,9 +135,9 @@ content:
         caption: August 26 - Present
         
         description: | # this will include new lines to allow paragraphs
-          - Assisting Professor [Xi Li](https://lixi1994.github.io){:target="_blank" rel="noopener"} in preparing course materials, grading assignments and exams, and conducting office hours for **CS685/785 Foundation of Data Science**, supporting and guiding over 290 students on key concepts.
+          - Assisting Professor [Xi Li](https://lixi1994.github.io){:target="_blank" rel="noopener"} in preparing course materials, grading, and conducting office hours for **CS685/785 Foundation of Data Science**, supporting and guiding over 290 students on key concepts.
 
-          - Holdling weekly office hours, offering one-on-one and group assistance to students, ensuring comprehension of complex topics.
+          - Holding weekly office hours, offering one-on-one and group assistance to students, ensuring comprehension of complex topics.
 
           - Collaborating with the professor to enhance teaching methods and improve student engagement.
 
@@ -221,7 +221,7 @@ content:
 
 
       - layout: left
-        title: IT lab Solutions Ltd
+        title: IT Lab Solutions Ltd
         link: www.itlabsolutions.com
         # link_text: IT Lab Solutions Ltd.
         sub_title: Software Developer
