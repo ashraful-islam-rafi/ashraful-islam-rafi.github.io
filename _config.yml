@@ -130,13 +130,15 @@ content:
         caption: August 26 - Present
         
         description: | # this will include new lines to allow paragraphs
-          - Assisting Professor [Xi Li](https://lixi1994.github.io){:target="_blank" rel="noopener"} in preparing course materials, grading, and conducting office hours for **CS685/785 Foundation of Data Science**, supporting and guiding over 290 students on key concepts.
+           - Assisting Professor [Xi Li](https://lixi1994.github.io){:target="_blank" rel="noopener"} in preparing course materials, grading, and conducting office hours for **CS685/785 Foundation of Data Science**, providing students with support and guidance on key concepts.
+           
+        # - Assisting Professor [Xi Li](https://lixi1994.github.io){:target="_blank" rel="noopener"} in preparing course materials, grading, and conducting office hours for **CS685/785 Foundation of Data Science**, supporting and guiding over 290 students on key concepts.
 
-          - Holding weekly office hours, offering one-on-one and group assistance to students, ensuring comprehension of complex topics.
+        # - Holding weekly office hours, offering one-on-one and group assistance to students, ensuring comprehension of complex topics.
 
-          - Collaborating with the professor to enhance teaching methods and improve student engagement.
+        # - Collaborating with the professor to enhance teaching methods and improve student engagement.
 
-          - Assisting students with programming tasks using Python and libraries like Pandas, NumPy, and scikit-learn.
+        # - Assisting students with programming tasks using Python and libraries like Pandas, NumPy, and scikit-learn.
 
 
       - layout: left
@@ -240,7 +242,7 @@ content:
       - **Methodologies:** SDLC, STLC, MVC, Unit Testing, Agile, Scrum, Waterfall
 
 
-  - title: Extracurricular / Activities / News # Title for the section
+  - title: Extracurricular / Activities # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       - Served as a **Judge** for the Summer 2023 Undergraduate Research Expo at UAB, evaluating student research projects.
