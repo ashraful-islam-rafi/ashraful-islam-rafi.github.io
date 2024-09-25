@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ashraful Islam Rafi
-title: CS Graduate Student @ UAB
+title: MSCS'24 @ [UAB](https://www.uab.edu){:target="_blank" rel="noopener"} | Seeking SWE Full-Time or Internship Opportunities
 email: ashrafulrafi@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -15,10 +15,10 @@ email: ashrafulrafi@gmail.com
 darkmode: false
 
 # Social links
-github_username:  ashraful-islam-rafi
+github_username: ashraful-islam-rafi
 linkedin_username: ashraful-islam-rafi
-twitter_username: rafithe47
-instagram_username: rafithe47
+# twitter_username: rafithe47
+# instagram_username: rafithe47
 # facebook_username: rafithe47
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -55,10 +55,10 @@ additional_links:
 # Starts from here
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi. I am a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and over 7 years of software development experience.
+  Hi, my name's Rafi, a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and more than 7 years of software development experience.
 
     <br/>
-    I am currently pursuing <mark>Software Engineering</mark> or <mark>Full Stack Developer</mark> positions that will allow me to apply my skills, continue learning and growing professionally, and embrace new challenges.
+    Currently seeking <mark>Software Engineering</mark>, or <mark>Full Stack Developer</mark>, or <mark>Internship</mark> opportunities that will allow me to apply my skills, continue learning and growing professionally, and embrace new challenges.
 
 # <br/>
 # # I am most skilled in: <mark>Research, Developing Software</mark> and <mark>Eating Pizza</mark> 🍕
