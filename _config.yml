@@ -69,7 +69,7 @@ content:
     content:
       - layout: top-middle
         title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
-        sub_title: MS in Computer Science
+        sub_title: Master of Science in Computer Science
         link: www.uab.edu
         caption: January 2022 - December 2024
         
@@ -232,14 +232,14 @@ content:
   - title: Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **Programming Languages:** Python, Java, C, C++, PHP, Racket, JavaScript
+      - **Programming Languages:** Python, Java, C, C++, PHP, JavaScript, Racket
       - **Databases:** MySQL, Apache Solr, MongoDB
       - **Frameworks/Libraries:** Spring Boot, Java Servlet, Flask, Codeigniter, Jsoup, Scrapy, jQuery, Bootstrap3, AJAX
       - **Web Technologies:** HTML5, CSS3, RESTful API
       - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
       - **DevOps & Tools:** Git, Docker, AWS, Maven, Rancher
       - **CMS:** WordPress
-      - **Methodologies:** SDLC, STLC, MVC, Unit Testing, Agile, Scrum, Waterfall
+      - **Methodologies:** SDLC, STLC, MVC, Jira, Unit Testing, Agile, Scrum, Waterfall
 
 
   - title: Extracurricular / Activities # Title for the section
