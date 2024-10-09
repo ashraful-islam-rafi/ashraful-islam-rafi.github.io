@@ -55,7 +55,7 @@ additional_links:
 # Starts from here
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi, a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} wwith over 7 years of <mark>software development</mark> experience and more than 2 years of <mark>academic research</mark> experience.
+  Hi, my name's Rafi, a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 7 years of <mark>software development</mark> experience and more than 2 years of <mark>academic research</mark> experience.
 
     <br/>
     Currently seeking <mark>Software Engineering</mark>, <mark>Full Stack Developer</mark>, or <mark>Internship</mark> opportunities that will allow me to apply my skills, continue learning and growing professionally, and embrace new challenges.
