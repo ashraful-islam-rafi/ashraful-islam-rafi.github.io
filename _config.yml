@@ -55,7 +55,7 @@ additional_links:
 # Starts from here
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
-  Hi, my name's Rafi, a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} with over 2 years of academic research experience and more than 7 years of software development experience.
+  Hi, my name's Rafi, a computer science graduate student at the [University of Alabama at Birmingham (UAB)](https://www.uab.edu){:target="_blank" rel="noopener"} wwith over 7 years of <mark>software development</mark> experience and more than 2 years of <mark>academic research</mark> experience.
 
     <br/>
     Currently seeking <mark>Software Engineering</mark>, <mark>Full Stack Developer</mark>, or <mark>Internship</mark> opportunities that will allow me to apply my skills, continue learning and growing professionally, and embrace new challenges.
@@ -194,9 +194,9 @@ content:
         
 
         description: | # this will include new lines to allow paragraphs
-          - Served over 3 months as the in-charge of the Information Technology (IT) department, managing all IT operations and ensuring efficient and effective technology solutions across the organization.
+          - Led the IT department for over 3 months, overseeing all operations and ensuring effective technology solutions across the organization..
 
-          - Developed an Online Admission System using PHP, MySQL, Ajax, and Bootstrap3, contributing to 25% of total admissions.
+          - Developed an Online Admission System using PHP, MySQL, and Bootstrap3, driving 25\% of total admissions.
           
           - Improved the University Support System (USS) report generation time by 30% by redesigning the MySQL database schema.  
           
