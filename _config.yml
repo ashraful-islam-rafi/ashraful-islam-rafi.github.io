@@ -235,11 +235,12 @@ content:
       - **Programming Languages:** Python, Java, C, C++, PHP, JavaScript, Racket
       - **Databases:** MySQL, Apache Solr, MongoDB
       - **Frameworks/Libraries:** Spring Boot, Java Servlet, Flask, Codeigniter, Jsoup, Scrapy, jQuery, Bootstrap3, AJAX
-      - **Web Technologies:** HTML5, CSS3, RESTful API, Web Scraping/Crawling
+      - **Web Technologies:** RESTful API, ETL/ELT, Web Scraping/Crawling (Scrapy, Jsoup), HTML5, CSS3
       - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
       - **DevOps & Tools:** Git, Docker, AWS, Google Cloud, Maven, Rancher, CI/CD
       - **CMS:** WordPress
       - **Methodologies:** SDLC, MVC, Agile, Scrum, Jira, Unit Testing
+
 
 
   - title: Extracurricular / Activities # Title for the section
