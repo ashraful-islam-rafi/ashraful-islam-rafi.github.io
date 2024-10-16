@@ -152,8 +152,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - **Brouhaha (Prototype Research Compiler):** Led a team of three students in developing Brouhaha, which currently outperforms other compilers like Chicken and Guile, achieving 3x better running times for certain benchmarks. This performance primarily results from performing control flow analysis (k-CFA) to detect function inlining opportunities. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
 
-
-          - **Functional Compilation and Functional Program Analysis:** Surveyed over 120 academic papers and books, producing a [30-page report](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"} with primary resources drawn from a diverse range of esteemed journals and conferences, including but not limited to POPL, PLDI, ICFP, and OOPSLA.
+          - **Functional Compilation and Functional Program Analysis:** Surveyed over 120 academic papers and books, producing a 30-page report with primary resources drawn from a diverse range of esteemed journals and conferences, including but not limited to POPL, PLDI, ICFP, and OOPSLA. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
 
           - **Compiler:** Wrote a functional compiler in Racket that translates minimal Racket code into C++. [Github Link](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
 
@@ -235,7 +234,7 @@ content:
       - **Programming Languages:** Python, Java, C, C++, PHP, JavaScript, Racket
       - **Databases:** MySQL, Apache Solr, MongoDB
       - **Frameworks/Libraries:** Spring Boot, Java Servlet, Flask, Codeigniter, Jsoup, Scrapy, jQuery, Bootstrap3, AJAX
-      - **Web Technologies:** RESTful API, ETL/ELT, Web Scraping/Crawling (Scrapy, Jsoup), HTML5, CSS3
+      - **Web Technologies:** RESTful API, Web Scraping/Crawling (Scrapy, Jsoup), ETL/ELT, HTML5, CSS3
       - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
       - **DevOps & Tools:** Git, Docker, AWS, Google Cloud, Maven, Rancher, CI/CD
       - **CMS:** WordPress
