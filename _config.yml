@@ -236,7 +236,7 @@ content:
       - **Frameworks/Libraries:** Spring Boot, Java Servlet, Flask, Codeigniter, Jsoup, Scrapy, jQuery, Bootstrap3, AJAX
       - **Web Technologies:** RESTful API, Web Scraping/Crawling (Scrapy, Jsoup), HTML5, CSS3
       - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
-      - **DevOps & Tools:** Git, Docker, AWS, Google Cloud, Maven, Rancher, CI/CD
+      - **DevOps & Tools:** Git, Docker, AWS, Maven, Rancher, CI/CD
       - **CMS:** WordPress
       - **Methodologies:** SDLC, MVC, Agile, Scrum, Jira, Unit Testing
 
