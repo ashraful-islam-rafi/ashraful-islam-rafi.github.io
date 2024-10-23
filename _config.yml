@@ -171,17 +171,18 @@ content:
         #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
 
         description: | # this will include new lines to allow paragraphs
-          - **Search Relevancy Improvement:** Enhanced keyword-based search relevancy by 35% through redesign of Apache Solr schema and advanced query boosting techniques
+          - **Search Relevancy Improvement:** Enhanced keyword-based search relevancy by 35% through redesigning the Apache Solr schema and implementing advanced query-boosting techniques.
  
           - **Large-Scale Data Search Portal:** Developed scalable crawlers and parsers using Scrapy and Jsoup to extract data from over 40,000 websites, boosting indexed data by 18% and enhancing search capabilities.
- 
-          - **Spellchecker Context-Aware Library:** Reduced the Dictionary file loading time by 20 seconds, by fixing various bugs.
  
           - **Solr Analytic Library:** Wrote RESTful API using Spring Boot to provide domain-specific time series data, improving reporting capabilities and reducing the debugging time by 20%.
  
           - **Rich Document Parser:** Extracted Bangla Unicode data from files (PDF, DOC, PPT, CSV) using jsoup, achieving a 25% improvement in relevant search query matches. 
 
           - **TIG Stack Deployment:** Implemented TIG (Telegraf, InfluxDB, Grafana) stack on Pipilika's server for real-time infrastructure monitoring, reducing downtime through proactive issue detection.
+
+        # **Spellchecker Context-Aware Library:** Reduced the Dictionary file loading time by 20 seconds, by fixing various bugs.
+ 
 
 
       - layout: left
@@ -193,7 +194,7 @@ content:
         
 
         description: | # this will include new lines to allow paragraphs
-          - Led the IT department for over 3 months, overseeing all operations and ensuring effective technology solutions across the organization.
+          - Managed the IT department for over three months, overseeing all operations and ensuring effective technology solutions throughout the organization.
 
           - Developed an Online Admission System using PHP, MySQL, and Bootstrap3, driving 25% of total admissions.
           
@@ -232,13 +233,11 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - **Programming Languages:** Python, Java, C, C++, PHP, JavaScript, Racket
-      - **Databases:** MySQL, Apache Solr, MongoDB
-      - **Frameworks/Libraries:** Spring Boot, Java Servlet, Flask, Codeigniter, Jsoup, Scrapy, jQuery, Bootstrap3, AJAX
-      - **Web Technologies:** RESTful API, Web Scraping/Crawling (Scrapy, Jsoup), HTML5, CSS3
-      - **Servers & Environments:** Lampp, Xampp, Apache, Linux, Windows, MacOS
-      - **DevOps & Tools:** Git, Docker, AWS, Maven, Rancher, CI/CD
-      - **CMS:** WordPress
-      - **Methodologies:** SDLC, MVC, Agile, Scrum, Jira, Unit Testing
+      - **Database Technologies:** MySQL, MongoDB, Apache Solr, T-SQL, NoSQL
+      - **Frameworks & Libraries:** Spring Boot, CodeIgniter, WordPress, Bootstrap3
+      - **Web Technologies:** RESTful APIs, HTML5, CSS3, AJAX, Web Scraping/Crawling (Scrapy, Jsoup)
+      - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), JIRA
+      - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda), Linux, CI/CD, Maven, Bash, Command Line
 
 
 
