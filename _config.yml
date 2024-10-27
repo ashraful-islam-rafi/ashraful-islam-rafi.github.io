@@ -234,8 +234,8 @@ content:
     content: |
       - **Programming Languages:** Python, Java, C, C++, PHP, JavaScript, Racket
       - **Database Technologies:** MySQL, MongoDB, Apache Solr, T-SQL, NoSQL
-      - **Frameworks & Libraries:** Spring Boot, CodeIgniter, WordPress, Bootstrap3
-      - **Web Technologies:** RESTful APIs, HTML5, CSS3, AJAX, Web Scraping/Crawling (Scrapy, Jsoup)
+      - **Frameworks & Libraries:** Spring Boot, CodeIgniter, WordPress, Bootstrap3, AJAX, jQuery
+      - **Web Technologies:** RESTful APIs, Postman, HTML5, CSS3, Web Scraping/Crawling (Scrapy, Jsoup)
       - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), JIRA
       - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda), Linux, CI/CD, Maven, Bash, Command Line
 
