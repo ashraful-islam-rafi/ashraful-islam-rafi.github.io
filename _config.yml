@@ -154,7 +154,7 @@ content:
 
           - **Functional Compilation and Functional Program Analysis:** Surveyed over 120 academic papers and books, producing a 30-page report with primary resources drawn from a diverse range of esteemed journals and conferences, including but not limited to POPL, PLDI, ICFP, and OOPSLA. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
 
-          - **Compiler:** Wrote a functional compiler in Racket that translates minimal Racket code into C++. [Github Link](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
+          - **Compiler:** Wrote a functional compiler in Racket that generates C++ code for a minimal Racket-like language. [Github Link](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
 
           - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
 
