@@ -150,7 +150,7 @@ content:
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Led a team of three to develop Brouhaha, resulting in faster runtime than Chicken and Guile on specific benchmarks by using control flow analysis (k-CFA) to detect function inlining opportunities.. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
+          - **Brouhaha (Prototype Research Compiler):** Led a team of three to develop Brouhaha, resulting in faster runtime than Chicken and Guile on specific benchmarks by using control flow analysis (k-CFA) to detect function inlining opportunities. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
 
           - **Functional Compilation and Functional Program Analysis:** Reviewed 120+ academic papers and books on Functional Compilation and Functional Program Analysis, and created a 30-page report with insights from top journals like POPL, PLDI, and ICFP, enhancing field knowledge. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
 
