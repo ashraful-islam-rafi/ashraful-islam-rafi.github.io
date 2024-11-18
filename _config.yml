@@ -236,6 +236,7 @@ content:
       - **Database Technologies:** MySQL, MongoDB, Apache Solr, T-SQL, NoSQL
       - **Frameworks & Libraries:** Spring Boot, React, WordPress, CodeIgniter, Bootstrap3, AJAX, jQuery
       - **Web Technologies:** RESTful APIs, Postman, HTML5, CSS3, Web Scraping/Crawling (Scrapy, Jsoup)
+      - **DS & ML Libraries:** NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, TensorFlow, PyTorch, Anaconda   
       - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda), Linux, CI/CD, Maven, Bash, Command Line
       - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), Power BI, JIRA
 
