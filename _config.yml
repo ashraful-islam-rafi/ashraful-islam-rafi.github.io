@@ -158,7 +158,7 @@ content:
           
           - **DevOps and Build Optimization:** Deployed and managed Docker containers with CMake-based builds to streamline development environments, ensuring cross-platform compatibility across Linux, Windows, and Mac OS.         
 
-          - **Functional Compilation and Functional Program Analysis:** Reviewed 120+ academic papers and books on Functional Compilation and Functional Program Analysis, and created a 30-page report with insights from top journals like POPL, PLDI, and ICFP, enhancing field knowledge. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
+          - **Functional Compilation and Functional Program Analysis:** Reviewed over 120 papers on Functional Compilation and Functional Program Analysis, summarizing insights from top journals (POPL, PLDI, ICFP) in a 30-page report. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
 
 
         # - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
@@ -203,7 +203,7 @@ content:
           
           - Developed an Online Admission System using PHP, MySQL, and Bootstrap3, driving 25% of total admissions.
           
-          - Reduced report generation time by 30\% in the University Support System (USS) through MySQL schema redesign.
+          - Reduced report generation time by 30% in the University Support System (USS) through MySQL schema redesign.
 
           - Supervised a vendor in developing a timely Human Resources Management System (HRMS) software that met university requirements.
 
