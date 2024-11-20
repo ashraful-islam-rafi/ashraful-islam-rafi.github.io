@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rafi, an experienced Software Engineer with a strong background in software development and academic research. 
 
     <br/>
-    Currently seeking <mark>Software Engineering</mark>, <mark>Full Stack Developer</mark>, or <mark>Internship</mark> opportunities that will allow me to apply my skills, continue learning and growing professionally, and embrace new challenges.
+    Currently seeking <mark>Software Engineering</mark>, <mark>Full Stack Developer</mark>, or <mark>Internship</mark> opportunities that will allow me to apply my skills, continue learning & growing professionally, and embrace new challenges.
 
 # <br/>
 # # I am most skilled in: <mark>Research, Developing Software</mark> and <mark>Eating Pizza</mark> 🍕
@@ -231,7 +231,7 @@ content:
         
 
         description: | # this will include new lines to allow paragraphs
-          - Designed and developed customized web-based Shop Management software for over 5 different businesses using CodeIgniter, Ajax, and Bootstrap3 with MySQL as the database.
+          - Developed web-based shop management software for over 5 businesses using CodeIgniter, MySQL, and Bootstrap3, providing solutions for inventory, sales, and reporting.
           
 
   - title: Skills # Title for the section
