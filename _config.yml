@@ -150,13 +150,18 @@ content:
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Led a team of three to develop Brouhaha, resulting in faster runtime than Chicken and Guile on specific benchmarks by using control flow analysis (k-CFA) to detect function inlining opportunities. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
+          - **Brouhaha (Prototype Research Compiler):** Led a team of three to develop Brouhaha (Research Compiler), resulting in faster runtime than Chicken on specific benchmarks by utilizing control flow analysis (m-CFA) for function inlining and runtime optimization. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
 
-          - **Functional Compilation and Functional Program Analysis:** Reviewed 120+ academic papers and books on Functional Compilation and Functional Program Analysis, and created a 30-page report with insights from top journals like POPL, PLDI, and ICFP, enhancing field knowledge. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
 
           - **Compiler:** Developed a functional compiler in Racket to translate a minimal Racket-like language into equivalent C++ code, producing identical runtime outputs. [Github Link](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
 
-          - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
+          
+          - **DevOps and Build Optimization:** Deployed and managed Docker containers with CMake-based builds to streamline development environments, ensuring cross-platform compatibility across Linux, Windows, and Mac OS.         
+
+          - **Functional Compilation and Functional Program Analysis:** Reviewed 120+ academic papers and books on Functional Compilation and Functional Program Analysis, and created a 30-page report with insights from top journals like POPL, PLDI, and ICFP, enhancing field knowledge. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
+
+
+        # - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
 
 
       - layout: left
@@ -195,12 +200,12 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           - Oversaw IT department operations as an Interim Manager for three months, implementing effective technology solutions that improved departmental efficiency.
-
-          - Supervised a vendor in developing a timely Human Resources Management System (HRMS) software that met university requirements.
           
           - Developed an Online Admission System using PHP, MySQL, and Bootstrap3, driving 25% of total admissions.
           
-          - Reduced University Support System software report generation time by 30% through MySQL schema redesign
+          - Reduced report generation time by 30\% in the University Support System (USS) through MySQL schema redesign.
+
+          - Supervised a vendor in developing a timely Human Resources Management System (HRMS) software that met university requirements.
 
 
       # - layout: left
@@ -233,13 +238,12 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - **Programming Languages:** Python, Java, C, C++, PHP, JavaScript, Racket
-      - **Database Technologies:** MySQL, MongoDB, Apache Solr, T-SQL, NoSQL
+      - **Database Technologies:** MySQL (RDBMS), MongoDB (NoSQL), Apache Solr (NoSQL)
       - **Frameworks & Libraries:** Spring Boot, React, WordPress, CodeIgniter, Bootstrap3, AJAX, jQuery
-      - **Web Technologies:** RESTful APIs, Postman, HTML5, CSS3, Web Scraping/Crawling (Scrapy, Jsoup)
-      - **DS & ML Libraries:** NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, TensorFlow, PyTorch, Anaconda   
-      - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda), Linux, CI/CD, Maven, Bash, Command Line
-      - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), Power BI, JIRA
-
+      - **DS & ML Libraries:** NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, TensorFlow, PyTorch   
+      - **Web Technologies:** RESTful APIs, Postman, HTML5, CSS3, JSON, Web Scraping/Crawling (Scrapy, Jsoup)
+      - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), JIRA
+      - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda), Linux, CI/CD, Maven, Bash, OpenMPI, CMake
 
   - title: Extracurricular / Activities # Title for the section
     layout: text # Type of content section (list/text)
