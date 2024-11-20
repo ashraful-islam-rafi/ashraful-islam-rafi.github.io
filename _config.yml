@@ -150,7 +150,7 @@ content:
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Led a team of three to develop Brouhaha (Research Compiler), resulting in faster runtime than Chicken on specific benchmarks by utilizing control flow analysis (m-CFA) for function inlining and runtime optimization. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
+          - **Brouhaha (Prototype Research Compiler):** Led a team of three to develop Brouhaha (Research Compiler), which improved compilation times through flow-directed inlining based on control-flow analysis (CFA) and advanced local optimizations. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
 
 
           - **Compiler:** Developed a functional compiler in Racket to translate a minimal Racket-like language into equivalent C++ code, producing identical runtime outputs. [Github Link](https://github.com/ashraful-islam-rafi/compiler){:target="_blank" rel="noopener"}
