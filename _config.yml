@@ -57,10 +57,8 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
   Hi, my name's Rafi, an experienced Software Engineer with a strong background in software development and academic research. 
 
-    <br/>
     Currently seeking <mark>Software Engineering</mark>, <mark>Full Stack Developer</mark>, or <mark>Internship</mark> opportunities to apply my skills, embrace new challenges, and continue growing professionally.
 
-    <br/>
     Graduating in <mark>December 14, 2024</mark> and available for full-time employment starting <mark>January 13, 2025</mark> 
 
 # <br/>
