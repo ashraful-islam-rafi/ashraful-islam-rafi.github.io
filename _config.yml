@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ashraful Islam Rafi
-title: MSCS'24 @ UAB | Actively Seeking Full-Time Software Engineer Roles
+title: MSCS'24 @ UAB | Actively Seeking Full-Time Software Engineering Roles
 email: ashrafulrafi@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -38,7 +38,7 @@ additional_links:
 
 - title: Resume 
   icon: far fa-file-pdf
-  url: https://ashraful-islam-rafi.github.io/Ashraful_Islam_Resume.pdf
+  url: https://ashraful-islam-rafi.github.io/Ashraful_Islam_resume.pdf
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -244,7 +244,7 @@ content:
       - **DS & ML Libraries:** NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, TensorFlow, PyTorch   
       - **Web Technologies:** RESTful APIs, Postman, HTML5, CSS3, JSON, Web Scraping/Crawling (Scrapy, Jsoup)
       - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), JIRA
-      - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda), Linux, CI/CD, Maven, Bash, OpenMPI, CMake
+      - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda, SNS), Linux, CI/CD, Maven, Bash, OpenMPI, CMake
 
   - title: Extracurricular / Activities # Title for the section
     layout: text # Type of content section (list/text)
