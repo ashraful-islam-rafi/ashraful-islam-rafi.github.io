@@ -151,14 +151,13 @@ content:
         # caption: August 2017 - March 2021
         
         description: | # this will include new lines to allow paragraphs
-          - **Brouhaha (Prototype Research Compiler):** Led a team of three to develop Brouhaha, a Racket-to-C++ compiler, achieving faster compilation times through flow-directed inlining based on control-flow analysis (CFA) and advanced local optimizations. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
+          - **Brouhaha:** Led a team of three to develop Brouhaha, a Racket-to-C++ compiler, optimizing compilation speed with advanced inlining techniques and control-flow-driven performance improvements. [Github Link](https://github.com/harp-lab/brouhaha){:target="_blank" rel="noopener"}
 
-          - **Test Automation and Validation:** Automated testing infrastructure for Brouhaha by writing Python scripts, improving validation and debugging processes.
+          - **DevOps and Build Optimization:** Used Git, Docker, and CMake to build and deploy Brouhaha, ensuring compatibility across Linux, Windows, and macOS.
 
-          - **DevOps and Build Optimization:** Ensured Brouhaha's cross-platform compatibility using Git for version control, Docker for deployment, and CMake for build configuration on Linux, Windows, and macOS.
-   
-
-          - **Functional Compilation and Functional Program Analysis:** Reviewed over 120 papers on Functional Compilation and Program Analysis, summarizing insights from top journals (POPL, PLDI, ICFP) in a 30-page report. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
+          - **Test Automation and Validation:** Wrote Python scripts to automate testing for Brouhaha, improving validation accuracy and debugging efficiency.  
+             
+          - **Survey on Functional Compilation and Functional Program Analysis:** Reviewed over 120 research papers to extract insights on software optimization techniques and applied findings to improve compiler performance. [Survey Link](https://ashraful-islam-rafi.github.io/Survey.pdf){:target="_blank" rel="noopener"}
 
 
         # - **Teaching Experience:** Conducted 5 lab classes for the Programming Languages (CS401) course during Spring 2023.
@@ -176,15 +175,15 @@ content:
         #   Pipilika is a search engine operated from Sylhet, Bangladesh. It is the country's first Bangla search engine developed by the Computer Science and Engineering students of Shahjalal University of Science and Technology, Sylhet
 
         description: | # this will include new lines to allow paragraphs
-          - **Search Relevancy Improvement:** Enhanced keyword-based search relevancy by 35% through redesigning the Apache Solr schema and implementing advanced query-boosting techniques.
+          - **Search Relevancy Improvement:** Enhanced keyword-based search relevancy by 35% through redesigning the Apache Solr schema and implementing query-boosting techniques.
  
-          - **Large-Scale Data Search Portal:** Developed scalable crawlers and parsers using Scrapy and Jsoup to extract data from over 40,000 websites, boosting indexed data by 18% and enhancing search capabilities.
+          - **Large-Scale Data Search Portal:** Built scalable crawlers and parsers with Python and Java to extract data from over 40,000 websites, increasing indexed data by 18% and improving search functionality.
  
-          - **Solr Analytic Library:** Wrote RESTful API using Spring Boot to provide domain-specific time series data, improving reporting capabilities and reducing the debugging time by 20%.
+          - **RESTful APIs:** Developed multiple RESTful APIs with Spring Boot for data processing, reporting, and integration, enhancing system performance and usability.
  
-          - **Rich Document Parser:** Extracted Bangla Unicode data from files (PDF, DOC, PPT, CSV) using jsoup, achieving a 25% improvement in relevant search query matches. 
+          - **Rich Document Parser:** Extracted Bangla Unicode data from files (PDF, DOC, PPT, CSV) using Jsoup, achieving a 25% improvement in relevant search query matches. 
 
-          - **TIG Stack Deployment:** Implemented TIG (Telegraf, InfluxDB, Grafana) stack on Pipilika's server for real-time infrastructure monitoring, reducing downtime through proactive issue detection.
+          - **TIG Stack Deployment:** Deployed the TIG stack (Telegraf, InfluxDB, Grafana) for real-time infrastructure monitoring, cutting downtime by 15% through proactive issue detection.
 
         # **Spellchecker Context-Aware Library:** Reduced the Dictionary file loading time by 20 seconds, by fixing various bugs.
  
@@ -199,13 +198,13 @@ content:
         
 
         description: | # this will include new lines to allow paragraphs    
-          - Developed an Online Admission System using PHP, MySQL, and Bootstrap3, driving 25% of total admissions.
+          - Developed an online admission system using PHP, MySQL, and Bootstrap3, increasing admissions by 25%.
           
-          - Reduced report generation time by 30% in the University Support System (USS) through MySQL schema redesign.
+          - Optimized the University Support System by redesigning the MySQL schema, reducing report generation time by 30%.
 
-          - Supervised a vendor in developing a timely Human Resources Management System (HRMS) software that met university requirements.
+          - Supervised a vendor to deliver a Human Resources Management System on time, meeting university requirements.
 
-          - Served as Interim Manager of the IT department for three months, overseeing daily operations and ensuring smooth continuity of services across all functions.
+          - Acted as Interim IT Manager over three months, overseeing daily operations and ensuring uninterrupted services across all functions.
 
       # - layout: left
       #   title: DURBAR SOFTWARE
@@ -242,7 +241,7 @@ content:
       - **DS & ML Libraries:** NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, TensorFlow, PyTorch   
       - **Web Technologies:** RESTful APIs, Postman, HTML5, CSS3, JSON, Web Scraping/Crawling (Scrapy, Jsoup)
       - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), JIRA
-      - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda, SNS), Linux, CI/CD, Maven, Bash, OpenMPI, CMake
+      - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda, SNS), Linux, CI/CD, Maven, Bash, OpenMPI, CMake, Apache, Tomcat, LAMP
 
   - title: Extracurricular / Activities # Title for the section
     layout: text # Type of content section (list/text)
