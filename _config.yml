@@ -204,7 +204,7 @@ content:
 
           - Supervised a vendor to deliver a Human Resources Management System on time, meeting university requirements.
 
-          - Acted as Interim IT Manager over three months, overseeing daily operations and ensuring uninterrupted services across all functions.
+          - Acted as Interim IT Manager for over three months, overseeing daily operations and ensuring uninterrupted services across all functions.
 
       # - layout: left
       #   title: DURBAR SOFTWARE
@@ -236,12 +236,12 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       - **Programming Languages:** Python, Java, C, C++, PHP, JavaScript, Racket
-      - **Database Technologies:** MySQL (RDBMS), MongoDB (NoSQL), Apache Solr (NoSQL)
+      - **Databases:** MySQL (RDBMS), MongoDB (NoSQL), Apache Solr (NoSQL)
       - **Frameworks & Libraries:** Spring Boot, React, WordPress, CodeIgniter, Bootstrap3, AJAX, jQuery
       - **DS & ML Libraries:** NumPy, Pandas, Scikit-learn, SciPy, Matplotlib, Seaborn, TensorFlow, PyTorch   
-      - **Web Technologies:** RESTful APIs, Postman, HTML5, CSS3, JSON, Web Scraping/Crawling (Scrapy, Jsoup)
+      - **Web development:** RESTful APIs, Postman, HTML5, CSS3, JSON, Web Scraping (Scrapy, Jsoup)
       - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), JIRA
-      - **DevOps & Environments:** Git, Docker, AWS (S3, EC2, Lambda, SNS), Linux, CI/CD, Maven, Bash, OpenMPI, CMake, Apache, Tomcat, LAMP
+      - **DevOps:** Git, Docker, AWS (S3, EC2, Lambda, SNS), Linux, CI/CD, Maven, Bash, OpenMPI, CMake, Apache, Tomcat, LAMP
 
   - title: Extracurricular / Activities # Title for the section
     layout: text # Type of content section (list/text)
