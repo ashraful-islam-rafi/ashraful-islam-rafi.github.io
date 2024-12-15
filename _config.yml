@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Currently seeking <mark>Software Engineering</mark>, <mark>Full Stack Developer</mark>, or <mark>Internship</mark> opportunities to apply my skills, embrace new challenges, and continue growing professionally.
 
-  Graduating on <mark>December 14, 2024</mark>, and available for full-time employment starting <mark>January 13, 2025</mark>. 
+  Graduated in <mark>December 2024</mark> and available for full-time employment starting <mark>January 13, 2025</mark>. 
 
 # <br/>
 # # I am most skilled in: <mark>Research, Developing Software</mark> and <mark>Eating Pizza</mark> 🍕
@@ -69,10 +69,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: UNIVERSITY OF ALABAMA AT BIRMINGHAM
+        title: University of Alabama at Birmingham
         sub_title: Master of Science in Computer Science
         link: www.uab.edu
-        caption: January 2022 - December 2024
+        caption: January 2022 - December 2024 (GPA 3.8/4.0)
         
 
       # - layout: top-middle
