@@ -64,34 +64,6 @@ about_content: | # this will include new lines to allow paragraphs
 # <br/>
 # # I am most skilled in: <mark>Research, Developing Software</mark> and <mark>Eating Pizza</mark> 🍕
 
-content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: University of Alabama at Birmingham
-        sub_title: Master of Science in Computer Science
-        link: www.uab.edu
-        caption: January 2022 - December 2024 (GPA 3.8/4.0)
-        
-
-      # - layout: top-middle
-      #   title: LEADING UNIVERSITY
-      #   link: www.lus.ac.bd
-      #   # link_text: Leading University, Sylhet
-      #   # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
-      #   caption: August 2009 - August 2013 
-      #   sub_title: BS in Computer Science and Engineering
-
-      #   # quote: >
-      #   #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
-      #   description: | # this will include new lines to allow paragraphs
-      #     During my time at Leading University, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. I was actively involved with various voluntary services as well.
-
-    #       <br/> 
-    #       **Thesis/Project Title:** System to Secure Web Authentication: using cache, cookie, and session <br/>
-          
-# **Supervisor:** xxxx, Associate Professor, Department  of Computer Science & Engineering (CSE) and Head, Department  of Electrical & Electronic Engineering (EEE)
 
 
 # I worked as a voluntary **ACM instructor while doing undergrad** at my university
@@ -120,7 +92,8 @@ content:
   #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+  
+  content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -242,6 +215,35 @@ content:
       - **Web development:** RESTful APIs, Postman, HTML5, CSS3, JSON, Web Scraping (Scrapy, Jsoup)
       - **Project Management & Methodologies:** Agile, Scrum, SDLC, MVC, Unit Testing (Pytest, Junit), JIRA
       - **DevOps:** Git, Docker, AWS (S3, EC2, Lambda, SNS), Linux, CI/CD, Maven, Bash, OpenMPI, CMake, Apache, Tomcat, LAMP
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: University of Alabama at Birmingham
+        sub_title: Master of Science in Computer Science
+        link: www.uab.edu
+        caption: January 2022 - December 2024 (GPA 3.8/4.0)
+        
+
+      # - layout: top-middle
+      #   title: LEADING UNIVERSITY
+      #   link: www.lus.ac.bd
+      #   # link_text: Leading University, Sylhet
+      #   # caption: CGPA - 3.30 out of 4.00 <br/>2009 - 2013 
+      #   caption: August 2009 - August 2013 
+      #   sub_title: BS in Computer Science and Engineering
+
+      #   # quote: >
+      #   #   Leading University or LU is a private university in Bangladesh. It was established in 2001 under the Private University Act 1992. The campus of LU is located in Ragib Nagar, Kamal Bazar, South Surma, Sylhet, Bangladesh
+      #   description: | # this will include new lines to allow paragraphs
+      #     During my time at Leading University, I learned most of the key skills that have I have taken through my career such as programming, teamwork, and working to tight deadlines. I was actively involved with various voluntary services as well.
+
+    #       <br/> 
+    #       **Thesis/Project Title:** System to Secure Web Authentication: using cache, cookie, and session <br/>
+          
+# **Supervisor:** xxxx, Associate Professor, Department  of Computer Science & Engineering (CSE) and Head, Department  of Electrical & Electronic Engineering (EEE)
 
   - title: Extracurricular / Activities # Title for the section
     layout: text # Type of content section (list/text)
