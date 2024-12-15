@@ -207,14 +207,16 @@ content:
       - **DevOps:** Git, Docker, AWS (S3, EC2, Lambda, SNS), Linux, CI/CD, Maven, Bash, OpenMPI, CMake, Apache, Tomcat, LAMP
 
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: University of Alabama at Birmingham
         sub_title: Master of Science in Computer Science
         link: www.uab.edu
-        caption: January 2022 - December 2024 (GPA 3.8/4.0)
+        caption: January 2022 - December 2024
         
+        description: | # this will include new lines to allow paragraphs
+          - **GPA:** 3.80 out of 4.00
 
       # - layout: top-middle
       #   title: LEADING UNIVERSITY
