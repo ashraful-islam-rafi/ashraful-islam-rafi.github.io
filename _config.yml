@@ -87,14 +87,14 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: University of Alabama at Birmingham
-        link: www.uab.edu
-        sub_title: Teaching Assistant
-        caption: August 26 - Present
+      # - layout: left
+      #   title: University of Alabama at Birmingham
+      #   link: www.uab.edu
+      #   sub_title: Teaching Assistant
+      #   caption: August 26 - Present
         
-        description: | # this will include new lines to allow paragraphs
-           - Assisting [Dr. Li](https://lixi1994.github.io){:target="_blank" rel="noopener"} with course materials, grading, and holding office hours for the **Foundation of Data Science** course.
+      #   description: | # this will include new lines to allow paragraphs
+      #      - Assisting [Dr. Li](https://lixi1994.github.io){:target="_blank" rel="noopener"} with course materials, grading, and holding office hours for the **Foundation of Data Science** course.
 
         # - Assisting Professor [Xi Li](https://lixi1994.github.io){:target="_blank" rel="noopener"} in preparing course materials, grading, and conducting office hours for **CS685/785 Foundation of Data Science**, supporting and guiding over 290 students on key concepts.
 
