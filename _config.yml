@@ -209,14 +209,11 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: University of Alabama at Birmingham
         sub_title: Master of Science in Computer Science
         link: www.uab.edu
-        caption: January 2022 - December 2024
-        
-        description: | # this will include new lines to allow paragraphs
-          - **GPA:** 3.80 out of 4.00
+        caption: January 2022 - December 2024 (GPA 3.80/4.00)
 
       # - layout: top-middle
       #   title: LEADING UNIVERSITY
