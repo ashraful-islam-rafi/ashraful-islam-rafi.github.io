@@ -207,9 +207,9 @@ content:
       - **DevOps:** Git, Docker, AWS (S3, EC2, Lambda, SNS), Linux, CI/CD, Maven, Bash, OpenMPI, CMake, Apache, Tomcat, LAMP
 
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: University of Alabama at Birmingham
         sub_title: Master of Science in Computer Science
         link: www.uab.edu
