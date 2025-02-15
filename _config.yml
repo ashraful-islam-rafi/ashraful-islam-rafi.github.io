@@ -18,7 +18,7 @@ darkmode: false
 github_username: ashraful-islam-rafi
 linkedin_username: ashraful-islam-rafi
 # twitter_username: rafithe47
-# instagram_username: rafithe47
+instagram_username: ashrafulislamrafii
 # facebook_username: rafithe47
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -89,7 +89,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The University of Alabama in Huntsville
+        title: University of Alabama in Huntsville
         link: www.uah.edu
         # link_text: Search Engine Pipilika 
         sub_title: Software Developer II
