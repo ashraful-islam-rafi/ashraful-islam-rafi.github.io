@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ashraful Islam Rafi
-title: MSCS'24 @ UAB | Actively Seeking Full-Time Software Engineering Roles
+title: Software Developer II @ UAH
 email: ashrafulrafi@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -57,9 +57,9 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs  
   With over 7 years of experience in system design, full-stack development, and DevOps, I bring expertise in building scalable, user-centric applications and delivering effective solutions across diverse domains.
 
-  <br/>
-  
-  Graduated in <mark>December 2024</mark> and actively seeking full-time <mark>Software Engineering</mark> or <mark>Full Stack Developer</mark> roles to apply my skills, tackle new challenges, and grow professionally.
+# <br/>
+
+# Graduated in <mark>December 2024</mark> and actively seeking full-time <mark>Software Engineering</mark> or <mark>Full Stack Developer</mark> roles to apply my skills, tackle new challenges, and grow professionally.
 
 
 # <br/>
@@ -88,6 +88,18 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: The University of Alabama in Huntsville
+        link: www.uah.edu
+        # link_text: Search Engine Pipilika 
+        sub_title: Software Developer II
+        caption: February 2025 - Present
+        # caption: August 2017 - March 2021
+        
+        description: | # this will include new lines to allow paragraphs
+          - Design, develop, and enhance enterprise applications, integrate software solutions, and automate workflows to improve system efficiency.
+
+
       # - layout: left
       #   title: University of Alabama at Birmingham
       #   link: www.uab.edu
@@ -104,6 +116,7 @@ content:
         # - Collaborating with the professor to enhance teaching methods and improve student engagement.
 
         # - Assisting students with programming tasks using Python and libraries like Pandas, NumPy, and scikit-learn.
+
 
 
       - layout: left
